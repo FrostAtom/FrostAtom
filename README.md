@@ -5,11 +5,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-💡 &nbsp;I like to develop various interesting things for online games on PC.\
+💡 &nbsp; I like to develop various interesting things for online games on PC.\
 🎓 &nbsp;And also do reverse engineering of applications for Windows.\
 🌎 &nbsp;Live and study in a small town in the west of Ukraine.\
 💬 &nbsp;Feel free to reach out for advice or just for some interesting discussion.\
-✉️ &nbsp;You can write me using links below! I'll try to respond as soon as I can.
+✉️ &nbsp;You can write me on links below! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
