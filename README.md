@@ -1,8 +1,9 @@
 # 👋 &nbsp;Hey there! I'm Atom
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 💡 &nbsp;I like to develop various interesting things for online games on PC.\
 🎓 &nbsp;And also do reverse engineering of applications for Windows.\
