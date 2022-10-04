@@ -8,7 +8,7 @@
 💡 &nbsp;I like to develop various interesting things for online games on PC.\
 🎓 &nbsp;And also do reverse engineering of applications for Windows.\
 🌎 &nbsp;Live and study in a small town in the west of Ukraine.\
-💬 &nbsp;Feel free to reach out for consulting, advice or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out for advice or just for some interesting discussion.\
 ✉️ &nbsp;You can write me on links below! I'll try to respond as soon as I can.
 
 
