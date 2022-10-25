@@ -11,6 +11,12 @@
 💬 &nbsp;Feel free to reach out for advice or just for some interesting discussion.\
 ✉️ &nbsp;You can write me on links below! I'll try to respond as soon as I can.
 
+<p align="center">
+<a href="mailto:vgolumbivskii@ukr.net"><img src="https://img.shields.io/badge/-vgolumbivskii@ukr.net-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://discordapp.com/users/327892422187024394"><img src="https://img.shields.io/badge/-@atom8289-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://t.me/boredatom"><img src="https://img.shields.io/badge/-@boredatom-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
+</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,12 +40,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrostAtom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrostAtom&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="mailto:vgolumbivskii@ukr.net"><img src="https://img.shields.io/badge/-vgolumbivskii@ukr.net-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://discordapp.com/users/327892422187024394"><img src="https://img.shields.io/badge/-@atom8289-BD081C?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://t.me/boredatom"><img src="https://img.shields.io/badge/-@boredatom-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
