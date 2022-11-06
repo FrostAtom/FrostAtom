@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can write me on links below! I'll try to respond as soon as I can.
 
 <p align="center">
-<a href="mailto:vgolumbivskii@ukr.net"><img src="https://img.shields.io/badge/-vgolumbivskii@ukr.net-d1cc36?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:vgolumbivskii@ukr.net"><img src="https://img.shields.io/badge/-vgolumbivskii@ukr.net-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discordapp.com/users/327892422187024394"><img src="https://img.shields.io/badge/-@atom8289-5562ea?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://t.me/boredatom"><img src="https://img.shields.io/badge/-@boredatom-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
