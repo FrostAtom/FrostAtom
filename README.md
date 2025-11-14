@@ -15,13 +15,6 @@
 🚀 Performance: Zero-Cost Abstractions, Microarchitecture Optimization.<br/>
 🪫 Low-Level: SIMD, x32/x64 Assembly, PE Internals, Profiling. <br/>
 🔍 Reverse Engineering & Tooling: IDA Pro, x64dbg, WinDbg, VTune.<br/>
-          
-![C++](https://img.shields.io/badge/-C++-05122A?style=square&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Asm](https://img.shields.io/badge/-Asm-05122A?style=square&logo=Intel&logoColor=00599C)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=square&logo=Lua&logoColor=00599C)&nbsp;
-![CMake](https://img.shields.io/badge/-CMake-05122A?style=square&logo=cmake)&nbsp;
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro%20-05122A?style=square)&nbsp;
-![x64 dbg](https://img.shields.io/badge/-x64%20dbg%20-05122A?style=square)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![](https://github-readme-stats.vercel.app/api?username=FrostAtom&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
