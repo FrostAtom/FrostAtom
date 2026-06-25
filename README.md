@@ -19,6 +19,3 @@
 🗄️ **Other**: PostgreSQL, SQLite, Game Development, Scripting & Automation.<br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rWCnDjTaap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCVws9TRZN49QxiIk4Q3VOgg) [![Telegram](https://img.shields.io/badge/-boredatom-1769FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/boredatom)
-
-### ⚙️ &nbsp;GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=FrostAtom&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)<br/>
